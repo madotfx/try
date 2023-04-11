@@ -1,3 +1,2 @@
 # try
-just try
-I am editing the README file.
+archive my coursera notebook exercise in here, enjoy!
